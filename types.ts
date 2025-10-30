@@ -1,0 +1,1 @@
+// Tipe ini dinonaktifkan.

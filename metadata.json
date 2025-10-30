@@ -1,0 +1,5 @@
+{
+  "name": "Image HD Enhancer",
+  "description": "An application to upscale and enhance the quality of images to high definition using the Gemini API. Upload an image, and the AI will improve its clarity, sharpness, and details.",
+  "requestFramePermissions": []
+}
